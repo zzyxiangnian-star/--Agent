@@ -1,6 +1,6 @@
 # AI 数据分析与报告生成 Agent
 
-[![CI](https://github.com/zzyxiangnian-star/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A-Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/zzyxiangnian-star/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A-Agent/actions/workflows/ci.yml)
+[![CI](https://github.com/zzyxiangnian-star/--Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/zzyxiangnian-star/--Agent/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一个本地优先的数据分析 MVP：导入 CSV/XLSX，自动生成数据概览，运行常用分析模板，并输出图表及 Markdown/HTML 报告。即使不配置大模型，核心分析流程也可以完整运行。
@@ -43,8 +43,8 @@ sample_data/       可公开使用的演示数据
 ### 1. 获取项目
 
 ```bash
-git clone "https://github.com/zzyxiangnian-star/数据分析报告-Agent.git"
-cd "数据分析报告-Agent"
+git clone "https://github.com/zzyxiangnian-star/--Agent.git" data-analysis-report-agent
+cd data-analysis-report-agent
 ```
 
 ### 2. 启动后端
